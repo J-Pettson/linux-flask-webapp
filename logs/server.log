@@ -1,0 +1,1414 @@
+127.0.0.1 - - [17/Apr/2026 14:05:55] code 404, message File not found
+127.0.0.1 - - [17/Apr/2026 14:05:55] "GET /logs HTTP/1.1" 404 -
+127.0.0.1 - - [17/Apr/2026 14:05:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Apr/2026 14:06:01] code 404, message File not found
+127.0.0.1 - - [17/Apr/2026 14:06:01] "GET /logs HTTP/1.1" 404 -
+127.0.0.1 - - [17/Apr/2026 14:07:13] code 404, message File not found
+127.0.0.1 - - [17/Apr/2026 14:07:13] "GET /status HTTP/1.1" 404 -
+127.0.0.1 - - [17/Apr/2026 14:07:45] code 404, message File not found
+127.0.0.1 - - [17/Apr/2026 14:07:45] "GET /hello HTTP/1.1" 404 -
+127.0.0.1 - - [17/Apr/2026 14:07:49] code 404, message File not found
+127.0.0.1 - - [17/Apr/2026 14:07:49] "GET /status HTTP/1.1" 404 -
+2026-04-17 14:41:56,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 14:41:56,278 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 14:49:06,990 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 14:49:06,990 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 14:49:53,369 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:53] code 400, message Bad request version ('ràtë\x82è\x88u\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-04-17 14:49:53,369 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:53] "[31m[1m\x16\x03\x01\x07a\x01\x00\x07]\x03\x03¥â\x8a\x9b\x9dÅt]"\x12òa\x96\x0d^\x1c÷Æ\x88\x99WÆUßfn\x94w\x97f í ÿák\x06£hÜ9[m_ÀVcÁÝÔ\x9a"»\x12Ø-\x0cràtë\x82è\x88u\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-04-17 14:49:53,371 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:53] code 400, message Bad request syntax ('\x16\x03\x01\x07a\x01\x00\x07]\x03\x03°$aw¨Åó6È\x10·>¥4àeÏ\x8f5Q\x1aý¡6IØ(\x17¨¿T¶ ')
+2026-04-17 14:49:53,371 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:53] "[31m[1m\x16\x03\x01\x07a\x01\x00\x07]\x03\x03°$aw¨Åó6È\x10·>¥4àeÏ\x8f5Q\x1aý¡6IØ(\x17¨¿T¶ [0m" 400 -
+2026-04-17 14:49:53,373 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:53] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07a\x01\x00\x07]\x03\x03_ÿ\x9d\\Ss2\x9e\x18\x17½¨\x16dâV7\x12àõ\x95¾\x1b§3Æ>îí|\x064')
+2026-04-17 14:49:53,373 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:53] "[31m[1m\x16\x03\x01\x07a\x01\x00\x07]\x03\x03_ÿ\x9d\\Ss2\x9e\x18\x17½¨\x16dâV7\x12àõ\x95¾\x1b§3Æ>îí|\x064 ¹¸U±\x04w©G_v3ÛñU7\x8dÄÖ¶«@þ\x19Àó¹÷åÒNT\x88\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-04-17 14:49:53,374 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:53] code 400, message Bad request version ('ü4WQçÏb7ÓA\x83\x9aº\x8c|%\x9c\x9dóâNÏ]<÷ÃD\x17¸P(5\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-04-17 14:49:53,374 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:53] "[31m[1m\x16\x03\x01\x02\x90\x01\x00\x02\x8c\x03\x03¢8#ú\x96è\x93Õ\x9cnB\x17 Òð©w\x01Vïl\x81\x8eß»Ì\x81Ó¡\x98Ø\x0d ü4WQçÏb7ÓA\x83\x9aº\x8c|%\x9c\x9dóâNÏ]<÷ÃD\x17¸P(5\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-04-17 14:49:57,577 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:57] code 400, message Bad request version ('¹\x87T\x14B#ª\x9e)\x00\x12}\x9cOÖ5¹0\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-04-17 14:49:57,578 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:57] "[31m[1m\x16\x03\x01\x07a\x01\x00\x07]\x03\x03ÔØ\x1c­ÜÕ\x947Stp<¡¾\x9cÎÍÀ.á\x87ô\x8b×\x12k\x1f³\x87_\x84w .\x06"Ï«\x80\x14K\x9e\x12\x82¾_\x1d¹\x87T\x14B#ª\x9e)\x00\x12}\x9cOÖ5¹0\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-04-17 14:49:57,580 - ERROR - 127.0.0.1 - - [17/Apr/2026 14:49:57] code 400, message Bad request version ('Þ:.$')
+2026-04-17 14:49:57,580 - INFO - 127.0.0.1 - - [17/Apr/2026 14:49:57] "[31m[1m\x16\x03\x01\x02\x90\x01\x00\x02\x8c\x03\x03\x84\\ôö|jÉ\x01§\x18"ô\x03\x9f7`\x8d\x01ßÇ_¨"\x1eO\x8e\\\x05õüß\x08 Þ:.$ [0m" 400 -
+2026-04-17 14:50:09,901 - INFO - 127.0.0.1 - GET /
+2026-04-17 14:50:09,901 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-17 14:50:09,902 - INFO - 127.0.0.1 - - [17/Apr/2026 14:50:09] "GET / HTTP/1.1" 200 -
+2026-04-17 14:50:11,432 - INFO - 127.0.0.1 - GET /Hello
+2026-04-17 14:50:11,433 - INFO - 127.0.0.1 - GET /Hello - 404 NOT FOUND
+2026-04-17 14:50:11,433 - INFO - 127.0.0.1 - - [17/Apr/2026 14:50:11] "[33mGET /Hello HTTP/1.1[0m" 404 -
+2026-04-17 14:50:12,443 - INFO - 127.0.0.1 - GET /status
+2026-04-17 14:50:12,696 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-17 14:50:12,696 - INFO - 127.0.0.1 - - [17/Apr/2026 14:50:12] "GET /status HTTP/1.1" 200 -
+2026-04-17 14:55:37,461 - INFO - 127.0.0.1 - GET /Hello
+2026-04-17 14:55:37,462 - INFO - 127.0.0.1 - GET /Hello - 404 NOT FOUND
+2026-04-17 14:55:37,462 - INFO - 127.0.0.1 - - [17/Apr/2026 14:55:37] "[33mGET /Hello HTTP/1.1[0m" 404 -
+2026-04-17 14:55:38,619 - INFO - 127.0.0.1 - GET /status
+2026-04-17 14:55:38,859 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-17 14:55:38,860 - INFO - 127.0.0.1 - - [17/Apr/2026 14:55:38] "GET /status HTTP/1.1" 200 -
+2026-04-17 14:55:49,936 - INFO - 127.0.0.1 - GET /Hello
+2026-04-17 14:55:49,937 - INFO - 127.0.0.1 - GET /Hello - 404 NOT FOUND
+2026-04-17 14:55:49,937 - INFO - 127.0.0.1 - - [17/Apr/2026 14:55:49] "[33mGET /Hello HTTP/1.1[0m" 404 -
+2026-04-17 14:56:25,422 - INFO - 127.0.0.1 - GET /Hello
+2026-04-17 14:56:25,422 - INFO - 127.0.0.1 - GET /Hello - 404 NOT FOUND
+2026-04-17 14:56:25,423 - INFO - 127.0.0.1 - - [17/Apr/2026 14:56:25] "[33mGET /Hello HTTP/1.1[0m" 404 -
+2026-04-17 14:56:28,311 - INFO - 127.0.0.1 - GET /hello
+2026-04-17 14:56:28,315 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-17 14:56:28,316 - INFO - 127.0.0.1 - - [17/Apr/2026 14:56:28] "GET /hello HTTP/1.1" 200 -
+2026-04-17 14:59:58,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 14:59:58,526 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:00:01,861 - INFO - 127.0.0.1 - GET /Hello - 302 FOUND
+2026-04-17 15:00:01,861 - INFO - 127.0.0.1 - - [17/Apr/2026 15:00:01] "[32mGET /Hello HTTP/1.1[0m" 302 -
+2026-04-17 15:00:01,875 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-17 15:00:01,876 - INFO - 127.0.0.1 - - [17/Apr/2026 15:00:01] "GET /hello HTTP/1.1" 200 -
+2026-04-17 15:06:48,671 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:06:48,671 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:14:52,651 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:14:52,651 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:14:57,071 - INFO - 127.0.0.1 - GET /asdfb
+2026-04-17 15:14:57,072 - WARNING - 404 Not Found:/asdfb
+2026-04-17 15:14:57,072 - INFO - 127.0.0.1 - GET /asdfb - 404 NOT FOUND
+2026-04-17 15:14:57,072 - INFO - 127.0.0.1 - - [17/Apr/2026 15:14:57] "[33mGET /asdfb HTTP/1.1[0m" 404 -
+2026-04-17 15:15:07,656 - INFO - 127.0.0.1 - GET /asdfb
+2026-04-17 15:15:07,657 - WARNING - 404 Not Found:/asdfb
+2026-04-17 15:15:07,657 - INFO - 127.0.0.1 - GET /asdfb - 404 NOT FOUND
+2026-04-17 15:15:07,657 - INFO - 127.0.0.1 - - [17/Apr/2026 15:15:07] "[33mGET /asdfb HTTP/1.1[0m" 404 -
+2026-04-17 15:16:30,186 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:16:30,186 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:16:33,982 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:16:33,982 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:16:33,982 - INFO - 127.0.0.1 - - [17/Apr/2026 15:16:33] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:16:34,056 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:16:34,056 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:16:34,056 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:16:34,059 - INFO - 127.0.0.1 - - [17/Apr/2026 15:16:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:22:32,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:22:32,831 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:23:14,578 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:14,590 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:14,591 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:14] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:14,613 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:14,613 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:14,613 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:14,613 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:32,873 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:32,882 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:32,882 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:32] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:32,903 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:32,903 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:32,903 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:32,903 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:33,353 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:33,360 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:33,360 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:33] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:33,385 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:33,385 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:33,385 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:33,385 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:33,787 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:33,796 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:33,796 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:33] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:33,820 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:33,820 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:33,821 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:33,821 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:34,200 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:34,212 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:34,212 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:34,236 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:34,236 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:34,236 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:34,236 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:34,604 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:34,613 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:34,613 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:34,649 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:34,649 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:34,649 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:34,650 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:34,919 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:34,928 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:34,928 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:34,950 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:34,950 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:34,950 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:34,950 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:35,142 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:35,152 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:35,153 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:35,172 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:35,172 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:35,172 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:35,172 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:35,325 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:35,335 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:35,335 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:35,362 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:35,362 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:35,362 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:35,362 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:35,490 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:35,500 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:35,500 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:35,525 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:35,525 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:35,525 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:35,525 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:35,691 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:35,699 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:35,699 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:35,716 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:35,717 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:35,717 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:35,717 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:35,981 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:35,992 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:35,993 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:35] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:36,012 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:36,012 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:36,013 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:36,013 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:36,203 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:36,215 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:36,215 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:36,238 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:36,238 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:36,238 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:36,238 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:36,409 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:36,419 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:36,419 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:36,442 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:36,442 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:36,442 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:36,442 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:36,596 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:36,607 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:36,607 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:36,630 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:36,630 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:36,630 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:36,631 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:36,779 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:36,787 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:36,788 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:36,812 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:36,813 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:36,813 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:36,816 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:37,197 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:37,204 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:37,204 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:37,224 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:37,224 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:37,224 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:37,224 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:37,473 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:37,483 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:37,483 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:37,506 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:37,506 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:37,507 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:37,511 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:37,683 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:37,692 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:37,692 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:37,710 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:37,710 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:37,710 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:37,710 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:37,896 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:37,905 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:37,905 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:37,924 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:37,924 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:37,924 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:37,924 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:38,114 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:38,123 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:38,124 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:38,151 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:38,151 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:38,151 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:38,151 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:38,367 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:38,376 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:38,376 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:38,401 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:38,401 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:38,401 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:38,401 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:38,548 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:38,557 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:38,558 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:38,583 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:38,583 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:38,583 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:38,583 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:38,940 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:38,948 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:38,948 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:38,972 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:38,972 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:38,972 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:38,972 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:39,211 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:39,220 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:39,220 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:39,242 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:39,243 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:39,243 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:39,243 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:39,419 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:39,431 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:39,431 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:39,452 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:39,452 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:39,452 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:39,452 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:39,850 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:39,859 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:39,859 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:39,881 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:39,881 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:39,881 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:39,881 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:40,316 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:40,323 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:40,323 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:40,344 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:40,344 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:40,344 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:40,344 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:40,527 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:40,534 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:40,535 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:40,564 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:40,564 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:40,564 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:40,564 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:40,734 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:40,742 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:40,742 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:40,772 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:40,772 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:40,772 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:40,772 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:40,967 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:40,977 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:40,978 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:40] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:41,000 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:41,000 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:41,001 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:41,002 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:41,147 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:41,156 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:41,156 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:41] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:41,208 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:41,209 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:41,209 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:41,209 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:41,604 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:41,613 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:41,613 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:41] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:41,637 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:41,637 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:41,637 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:41,637 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:42,042 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:42,049 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:42,050 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:42,072 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:42,072 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:42,072 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:42,073 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:42,274 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:42,285 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:42,286 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:42,302 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:42,302 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:42,302 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:42,302 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:42,465 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:42,474 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:42,475 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:42,493 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:42,493 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:42,493 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:42,493 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:42,669 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:42,675 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:42,675 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:42,699 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:42,700 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:42,700 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:42,700 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:42,895 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:42,906 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:42,906 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:42,932 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:42,932 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:42,932 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:42,933 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:43,309 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:43,316 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:43,316 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:43] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:43,331 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:43,331 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:43,331 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:43,331 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:43,791 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:43,801 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:43,801 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:43] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:43,816 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:43,816 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:43,816 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:43,816 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:44,008 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:44,017 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:44,017 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:44,036 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:44,036 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:44,036 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:44,036 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:44,221 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:44,230 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:44,230 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:44,246 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:44,246 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:44,246 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:44,246 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:44,428 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:44,437 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:44,437 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:44,461 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:44,461 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:44,461 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:44,461 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:44,610 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:44,622 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:44,622 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:44,642 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:44,642 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:44,642 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:44,643 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:45,040 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:45,048 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:45,048 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:45,077 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:45,077 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:45,077 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:45,077 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:45,508 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:45,518 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:45,519 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:45,540 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:45,540 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:45,540 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:45,541 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:45,752 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:45,762 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:45,763 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:45,796 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:45,796 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:45,796 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:45,797 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:45,932 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:45,940 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:45,940 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:45,967 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:45,967 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:45,967 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:45,967 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:46,123 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:46,131 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:46,132 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:46,154 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:46,154 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:46,154 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:46,154 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:46,357 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:46,367 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:46,368 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:46,396 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:46,396 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:46,396 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:46,397 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:46,812 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:46,821 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:46,821 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:46,845 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:46,845 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:46,845 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:46,845 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:47,243 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:47,253 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:47,253 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:47,280 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:47,280 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:47,280 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:47,280 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:47,447 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:47,456 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:47,456 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:47,482 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:47,482 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:47,482 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:47,482 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:47,669 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:47,679 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:47,679 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:47,712 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:47,712 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:47,712 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:47,714 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:47,895 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:47,905 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:47,905 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:47,929 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:47,929 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:47,929 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:47,929 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:48,100 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:48,110 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:48,111 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:48] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:48,141 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:48,141 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:48,141 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:48,143 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:48,551 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:48,560 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:48,560 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:48] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:48,579 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:48,579 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:48,580 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:48,580 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:48,989 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:48,998 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:48,998 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:48] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:49,018 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:49,018 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:49,018 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:49,019 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:49,176 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:49,185 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:49,186 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:49,216 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:49,216 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:49,216 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:49,216 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:49,422 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:49,429 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:49,430 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:49,449 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:49,449 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:49,449 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:49,449 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:49,643 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:49,653 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:49,653 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:49,677 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:49,677 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:49,677 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:49,677 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:49,852 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:49,863 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:49,864 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:49,886 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:49,886 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:49,886 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:49,886 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:50,277 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:50,293 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:50,293 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:50,315 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:50,316 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:50,316 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:50,316 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:50,714 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:50,723 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:50,723 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:50,743 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:50,743 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:50,743 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:50,743 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:50,930 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:50,940 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:50,940 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:50,966 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:50,966 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:50,966 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:50,966 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:51,170 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:51,181 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:51,181 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:51,199 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:51,200 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:51,200 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:51,200 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:51,399 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:51,409 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:51,409 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:51,430 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:51,430 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:51,430 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:51,430 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:51,595 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:51,603 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:51,603 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:51,632 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:51,632 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:51,632 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:51,632 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:23:51,952 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:23:51,961 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:23:51,962 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:23:51,993 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:23:51,993 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:23:51,993 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:23:51,993 - INFO - 127.0.0.1 - - [17/Apr/2026 15:23:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:29:42,632 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:29:42,632 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:29:51,822 - INFO - 127.0.0.1 - GET /metrics
+2026-04-17 15:29:52,058 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-17 15:29:52,058 - INFO - 127.0.0.1 - - [17/Apr/2026 15:29:52] "GET /metrics HTTP/1.1" 200 -
+2026-04-17 15:29:52,081 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:29:52,081 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:29:52,081 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:29:52,081 - INFO - 127.0.0.1 - - [17/Apr/2026 15:29:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:30:05,406 - INFO - 127.0.0.1 - GET /
+2026-04-17 15:30:05,407 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-17 15:30:05,407 - INFO - 127.0.0.1 - - [17/Apr/2026 15:30:05] "GET / HTTP/1.1" 200 -
+2026-04-17 15:32:11,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:32:11,593 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:32:13,884 - INFO - 127.0.0.1 - GET /
+2026-04-17 15:32:13,884 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-17 15:32:13,884 - INFO - 127.0.0.1 - - [17/Apr/2026 15:32:13] "GET / HTTP/1.1" 200 -
+2026-04-17 15:32:35,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:32:35,343 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:32:38,125 - INFO - 127.0.0.1 - GET /
+2026-04-17 15:32:38,125 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-17 15:32:38,125 - INFO - 127.0.0.1 - - [17/Apr/2026 15:32:38] "GET / HTTP/1.1" 200 -
+2026-04-17 15:49:57,592 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:49:57,592 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 15:50:00,057 - INFO - 127.0.0.1 - GET /
+2026-04-17 15:50:00,057 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-17 15:50:00,057 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:00] "GET / HTTP/1.1" 200 -
+2026-04-17 15:50:02,564 - INFO - 127.0.0.1 - GET /hello
+2026-04-17 15:50:02,573 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-17 15:50:02,573 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:02] "GET /hello HTTP/1.1" 200 -
+2026-04-17 15:50:03,542 - INFO - 127.0.0.1 - GET /status
+2026-04-17 15:50:03,785 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-17 15:50:03,785 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:03] "GET /status HTTP/1.1" 200 -
+2026-04-17 15:50:04,988 - INFO - 127.0.0.1 - GET /metrics
+2026-04-17 15:50:05,239 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-17 15:50:05,239 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:05] "GET /metrics HTTP/1.1" 200 -
+2026-04-17 15:50:05,287 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:50:05,287 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:50:05,287 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:50:05,287 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:50:06,850 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:06,850 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:06,852 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:06,853 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:06] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:10,304 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:50:10,311 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:50:10,311 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:10] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:50:10,361 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:50:10,361 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:50:10,361 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:50:10,361 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:50:11,586 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:11,586 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:11,587 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:11,587 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:11] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:26,498 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:26,498 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:26,498 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:26,499 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:26] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:34,742 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:34,742 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:34,743 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:34,743 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:34] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:35,262 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:35,262 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:35,263 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:35,263 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:35] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:35,559 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:35,560 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:35,561 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:35,561 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:35] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:35,711 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:35,711 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:35,712 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:35,713 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:35] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:35,864 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:35,865 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:35,866 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:35,866 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:35] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:36,003 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:36,003 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:36,004 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:36,004 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:36] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:50:36,151 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:50:36,151 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:50:36,152 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:50:36,152 - INFO - 127.0.0.1 - - [17/Apr/2026 15:50:36] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:54:51,866 - INFO - 127.0.0.1 - GET /hello
+2026-04-17 15:54:51,874 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-17 15:54:51,874 - INFO - 127.0.0.1 - - [17/Apr/2026 15:54:51] "GET /hello HTTP/1.1" 200 -
+2026-04-17 15:54:55,866 - INFO - 127.0.0.1 - GET /status
+2026-04-17 15:54:56,103 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-17 15:54:56,104 - INFO - 127.0.0.1 - - [17/Apr/2026 15:54:56] "GET /status HTTP/1.1" 200 -
+2026-04-17 15:54:58,173 - INFO - 127.0.0.1 - GET /metrics
+2026-04-17 15:54:58,408 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-17 15:54:58,408 - INFO - 127.0.0.1 - - [17/Apr/2026 15:54:58] "GET /metrics HTTP/1.1" 200 -
+2026-04-17 15:54:58,434 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:54:58,435 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:54:58,435 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:54:58,435 - INFO - 127.0.0.1 - - [17/Apr/2026 15:54:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:55:00,320 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:55:00,320 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:55:00,321 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:55:00,321 - INFO - 127.0.0.1 - - [17/Apr/2026 15:55:00] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:55:01,315 - INFO - 127.0.0.1 - GET /logs
+2026-04-17 15:55:01,315 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-17 15:55:01,316 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-17 15:55:01,316 - INFO - 127.0.0.1 - - [17/Apr/2026 15:55:01] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-17 15:55:05,658 - INFO - 127.0.0.1 - GET /health
+2026-04-17 15:55:05,666 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-17 15:55:05,666 - INFO - 127.0.0.1 - - [17/Apr/2026 15:55:05] "GET /health HTTP/1.1" 200 -
+2026-04-17 15:55:05,701 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-17 15:55:05,701 - WARNING - 404 Not Found:/favicon.ico
+2026-04-17 15:55:05,701 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-17 15:55:05,701 - INFO - 127.0.0.1 - - [17/Apr/2026 15:55:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-17 15:55:42,096 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-17 15:55:42,096 - INFO - [33mPress CTRL+C to quit[0m
+127.0.0.1 - - [17/Apr/2026 17:58:37] "GET / HTTP/1.1" 200 -
+2026-04-20 20:37:37,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 20:37:37,945 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:38:38,667 - INFO - 127.0.0.1 - GET /
+2026-04-20 20:38:38,667 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 20:38:38,668 - INFO - 127.0.0.1 - - [20/Apr/2026 20:38:38] "GET / HTTP/1.1" 200 -
+2026-04-20 20:38:38,755 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 20:38:38,755 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 20:38:38,755 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 20:38:38,755 - INFO - 127.0.0.1 - - [20/Apr/2026 20:38:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:39:22,830 - INFO - 127.0.0.1 - GET /health
+2026-04-20 20:39:22,844 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 20:39:22,844 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:22] "GET /health HTTP/1.1" 200 -
+2026-04-20 20:39:22,946 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 20:39:22,947 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 20:39:22,948 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 20:39:22,948 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:39:24,291 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:39:24,293 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:39:24,294 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:39:24,294 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:24] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:39:25,823 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:39:25,823 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:39:25,824 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:39:25,824 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:25] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:39:45,079 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 20:39:45,342 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 20:39:45,342 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:45] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 20:39:45,381 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 20:39:45,381 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 20:39:45,381 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 20:39:45,381 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:39:46,784 - INFO - 127.0.0.1 - GET /status
+2026-04-20 20:39:47,022 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 20:39:47,022 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:47] "GET /status HTTP/1.1" 200 -
+2026-04-20 20:39:48,304 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 20:39:48,317 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 20:39:48,318 - INFO - 127.0.0.1 - - [20/Apr/2026 20:39:48] "GET /hello HTTP/1.1" 200 -
+2026-04-20 20:47:44,340 - INFO - 127.0.0.1 - GET /
+2026-04-20 20:47:44,340 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 20:47:44,340 - INFO - 127.0.0.1 - - [20/Apr/2026 20:47:44] "GET / HTTP/1.1" 200 -
+2026-04-20 20:47:45,083 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:47:45,085 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:47:45,086 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:47:45,086 - INFO - 127.0.0.1 - - [20/Apr/2026 20:47:45] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:48:07,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 20:48:07,083 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:48:08,493 - INFO - 127.0.0.1 - GET /
+2026-04-20 20:48:08,493 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 20:48:08,494 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:08] "GET / HTTP/1.1" 200 -
+2026-04-20 20:48:09,107 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:48:09,107 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:48:09,109 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:48:09,109 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:09] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:48:56,650 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 20:48:56,889 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 20:48:56,890 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:56] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 20:48:56,930 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 20:48:56,930 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 20:48:56,930 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 20:48:56,930 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:48:57,778 - INFO - 127.0.0.1 - GET /status
+2026-04-20 20:48:58,016 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 20:48:58,017 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:58] "GET /status HTTP/1.1" 200 -
+2026-04-20 20:48:58,810 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 20:48:58,817 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 20:48:58,818 - INFO - 127.0.0.1 - - [20/Apr/2026 20:48:58] "GET /hello HTTP/1.1" 200 -
+2026-04-20 20:50:25,200 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 20:50:25,200 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:50:27,671 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:50:27,671 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:50:27,674 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:50:27,674 - INFO - 127.0.0.1 - - [20/Apr/2026 20:50:27] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:50:33,682 - INFO - 127.0.0.1 - GET /health
+2026-04-20 20:50:33,691 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 20:50:33,691 - INFO - 127.0.0.1 - - [20/Apr/2026 20:50:33] "GET /health HTTP/1.1" 200 -
+2026-04-20 20:50:33,714 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 20:50:33,714 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 20:50:33,714 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 20:50:33,714 - INFO - 127.0.0.1 - - [20/Apr/2026 20:50:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:50:36,488 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 20:50:36,488 - ERROR - Exception on /logs [GET]
+Traceback (most recent call last):
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 920, in full_dispatch_request
+    return self.finalize_request(rv)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 939, in finalize_request
+    response = self.make_response(rv)
+  File "/home/pettson/server-lab/venv/lib/python3.13/site-packages/flask/app.py", line 1212, in make_response
+    raise TypeError(
+    ...<3 lines>...
+    )
+TypeError: The view function for 'logs' did not return a valid response. The function either returned None or ended without a return statement.
+2026-04-20 20:50:36,488 - INFO - 127.0.0.1 - GET /logs - 500 INTERNAL SERVER ERROR
+2026-04-20 20:50:36,489 - INFO - 127.0.0.1 - - [20/Apr/2026 20:50:36] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2026-04-20 20:51:14,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 20:51:14,301 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:59:56,229 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 20:59:56,229 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:00:04,538 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:00:04,539 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:00:04,540 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:04] "GET / HTTP/1.1" 200 -
+2026-04-20 21:00:05,623 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:00:05,624 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:00:05,624 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:05] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:00:35,211 - INFO - 127.0.0.1 - GET /health
+2026-04-20 21:00:35,224 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 21:00:35,224 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:35] "GET /health HTTP/1.1" 200 -
+2026-04-20 21:00:35,272 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:00:35,273 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:00:35,273 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:00:35,273 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:00:36,555 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:00:36,798 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:00:36,798 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:36] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:00:36,844 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:00:36,844 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:00:36,844 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:00:36,844 - INFO - 127.0.0.1 - - [20/Apr/2026 21:00:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:04:58,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:04:58,458 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:05:00,114 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:05:00,362 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:05:00,363 - INFO - 127.0.0.1 - - [20/Apr/2026 21:05:00] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:05:00,422 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:05:00,422 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:05:00,422 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:05:00,423 - INFO - 127.0.0.1 - - [20/Apr/2026 21:05:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:05:04,423 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:05:04,423 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:05:04,423 - INFO - 127.0.0.1 - - [20/Apr/2026 21:05:04] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:05:07,605 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:05:07,606 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:05:07,606 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:05:07,606 - INFO - 127.0.0.1 - - [20/Apr/2026 21:05:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:11:05,640 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:11:05,640 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:11:07,259 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:11:07,259 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:11:07,260 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:07] "GET / HTTP/1.1" 200 -
+2026-04-20 21:11:08,555 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:11:08,797 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:11:08,797 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:08] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:11:14,022 - INFO - 127.0.0.1 - GET /health
+2026-04-20 21:11:14,032 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 21:11:14,033 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:14] "GET /health HTTP/1.1" 200 -
+2026-04-20 21:11:14,066 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:11:14,066 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:11:14,066 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:11:14,067 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:11:15,206 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:11:15,207 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:11:15,207 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:15] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:11:16,710 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:11:16,944 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:11:16,944 - INFO - 127.0.0.1 - - [20/Apr/2026 21:11:16] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:30:06,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:30:06,234 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:30:07,549 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:30:07,549 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:30:07,549 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:07] "GET / HTTP/1.1" 200 -
+2026-04-20 21:30:10,938 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 21:30:10,950 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 21:30:10,950 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:10] "GET /hello HTTP/1.1" 200 -
+2026-04-20 21:30:12,054 - INFO - 127.0.0.1 - GET /status
+2026-04-20 21:30:12,297 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 21:30:12,298 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:12] "GET /status HTTP/1.1" 200 -
+2026-04-20 21:30:13,357 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:30:13,586 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:30:13,587 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:13] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:30:14,531 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:30:14,531 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:30:14,531 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:14] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:30:15,599 - INFO - 127.0.0.1 - GET /health
+2026-04-20 21:30:15,607 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 21:30:15,607 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:15] "GET /health HTTP/1.1" 200 -
+2026-04-20 21:30:15,663 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:30:15,663 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:30:15,663 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:30:15,663 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:30:17,148 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:30:17,149 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:30:17,149 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:17] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:30:30,537 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:30:30,780 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:30:30,781 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:30] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:30:39,132 - INFO - 127.0.0.1 - GET /status
+2026-04-20 21:30:39,364 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 21:30:39,364 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:39] "GET /status HTTP/1.1" 200 -
+2026-04-20 21:30:43,991 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 21:30:43,999 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 21:30:43,999 - INFO - 127.0.0.1 - - [20/Apr/2026 21:30:43] "GET /hello HTTP/1.1" 200 -
+2026-04-20 21:41:37,625 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:41:37,626 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:41:38,618 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:41:38,619 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:41:38,619 - INFO - 127.0.0.1 - - [20/Apr/2026 21:41:38] "GET / HTTP/1.1" 200 -
+2026-04-20 21:41:39,654 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 21:41:39,663 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 21:41:39,663 - INFO - 127.0.0.1 - - [20/Apr/2026 21:41:39] "GET /hello HTTP/1.1" 200 -
+2026-04-20 21:44:51,773 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:44:51,773 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:44:53,704 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:44:53,704 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:44:53,704 - INFO - 127.0.0.1 - - [20/Apr/2026 21:44:53] "GET / HTTP/1.1" 200 -
+2026-04-20 21:44:55,383 - INFO - 127.0.0.1 - GET /status
+2026-04-20 21:44:55,618 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 21:44:55,618 - INFO - 127.0.0.1 - - [20/Apr/2026 21:44:55] "GET /status HTTP/1.1" 200 -
+2026-04-20 21:45:06,141 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:45:06,141 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:45:06,142 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:06] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:45:09,192 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:45:09,427 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:45:09,427 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:09] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:45:15,733 - INFO - 127.0.0.1 - GET /health
+2026-04-20 21:45:15,742 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 21:45:15,742 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:15] "GET /health HTTP/1.1" 200 -
+2026-04-20 21:45:15,766 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:45:15,766 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:45:15,766 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:45:15,766 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:45:19,479 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:45:19,722 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:45:19,723 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:19] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:54:30,573 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:54:30,573 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:54:37,295 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:54:37,295 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:54:37,296 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:37] "GET / HTTP/1.1" 200 -
+2026-04-20 21:54:38,216 - INFO - 127.0.0.1 - GET /status
+2026-04-20 21:54:38,455 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 21:54:38,455 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:38] "GET /status HTTP/1.1" 200 -
+2026-04-20 21:54:41,042 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:41,043 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:41,043 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:41] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:45,987 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:45,988 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:45,988 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:45] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:46,430 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:46,430 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:46,430 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:46] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:46,968 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:46,969 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:46,969 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:46] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:47,310 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:47,310 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:47,310 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:47] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:47,649 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:47,650 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:47,650 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:47] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:47,813 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:47,814 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:47,814 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:47] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:47,958 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:47,959 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:47,959 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:47] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:48,121 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:48,121 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:48,121 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:48] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:48,605 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:48,605 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:48,605 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:48] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:48,741 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:48,742 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:48,742 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:48] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:48,861 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:48,862 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:48,862 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:48] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:48,989 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:48,989 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:48,989 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:48] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:49,115 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:49,116 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:49,116 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:49] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:50,506 - INFO - 127.0.0.1 - GET /health
+2026-04-20 21:54:50,517 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 21:54:50,518 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:50] "GET /health HTTP/1.1" 200 -
+2026-04-20 21:54:50,579 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 21:54:50,579 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 21:54:50,579 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 21:54:50,579 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 21:54:51,196 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 21:54:51,196 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 21:54:51,197 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:51] "GET /logs HTTP/1.1" 200 -
+2026-04-20 21:54:51,838 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 21:54:52,077 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 21:54:52,078 - INFO - 127.0.0.1 - - [20/Apr/2026 21:54:52] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 21:57:39,106 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:57:39,106 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:57:42,509 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:57:42,509 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:57:42,509 - INFO - 127.0.0.1 - - [20/Apr/2026 21:57:42] "GET / HTTP/1.1" 200 -
+2026-04-20 21:57:47,081 - INFO - 127.0.0.1 - GET /who
+2026-04-20 21:57:47,088 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 21:57:47,088 - INFO - 127.0.0.1 - - [20/Apr/2026 21:57:47] "GET /who HTTP/1.1" 200 -
+2026-04-20 21:57:48,458 - INFO - 127.0.0.1 - GET /who
+2026-04-20 21:57:48,467 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 21:57:48,467 - INFO - 127.0.0.1 - - [20/Apr/2026 21:57:48] "GET /who HTTP/1.1" 200 -
+2026-04-20 21:58:38,439 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 21:58:38,439 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 21:58:39,103 - INFO - 127.0.0.1 - GET /
+2026-04-20 21:58:39,104 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 21:58:39,104 - INFO - 127.0.0.1 - - [20/Apr/2026 21:58:39] "GET / HTTP/1.1" 200 -
+2026-04-20 21:58:40,625 - INFO - 127.0.0.1 - GET /who
+2026-04-20 21:58:40,632 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 21:58:40,632 - INFO - 127.0.0.1 - - [20/Apr/2026 21:58:40] "GET /who HTTP/1.1" 200 -
+2026-04-20 22:05:10,029 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-20 22:05:10,029 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 22:05:10,739 - INFO - 127.0.0.1 - GET /who
+2026-04-20 22:05:10,750 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 22:05:10,750 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:10] "GET /who HTTP/1.1" 200 -
+2026-04-20 22:05:13,127 - INFO - 127.0.0.1 - GET /
+2026-04-20 22:05:13,127 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-20 22:05:13,127 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:13] "GET / HTTP/1.1" 200 -
+2026-04-20 22:05:14,398 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 22:05:14,405 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 22:05:14,406 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:14] "GET /hello HTTP/1.1" 200 -
+2026-04-20 22:05:15,090 - INFO - 127.0.0.1 - GET /status
+2026-04-20 22:05:15,332 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 22:05:15,332 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:15] "GET /status HTTP/1.1" 200 -
+2026-04-20 22:05:16,204 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 22:05:16,437 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 22:05:16,437 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:16] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 22:05:17,569 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 22:05:17,570 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 22:05:17,571 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:17] "GET /logs HTTP/1.1" 200 -
+2026-04-20 22:05:19,124 - INFO - 127.0.0.1 - GET /health
+2026-04-20 22:05:19,131 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 22:05:19,131 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:19] "GET /health HTTP/1.1" 200 -
+2026-04-20 22:05:19,157 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 22:05:19,157 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 22:05:19,157 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 22:05:19,158 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 22:05:20,654 - INFO - 127.0.0.1 - GET /who
+2026-04-20 22:05:20,662 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 22:05:20,662 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:20] "GET /who HTTP/1.1" 200 -
+2026-04-20 22:05:22,020 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 22:05:22,027 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 22:05:22,028 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:22] "GET /hello HTTP/1.1" 200 -
+2026-04-20 22:05:39,631 - INFO - 127.0.0.1 - GET /hello
+2026-04-20 22:05:39,636 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-20 22:05:39,636 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:39] "GET /hello HTTP/1.1" 200 -
+2026-04-20 22:05:43,936 - INFO - 127.0.0.1 - GET /status
+2026-04-20 22:05:44,168 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-20 22:05:44,168 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:44] "GET /status HTTP/1.1" 200 -
+2026-04-20 22:05:49,060 - INFO - 127.0.0.1 - GET /metrics
+2026-04-20 22:05:49,298 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-20 22:05:49,298 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:49] "GET /metrics HTTP/1.1" 200 -
+2026-04-20 22:05:54,623 - INFO - 127.0.0.1 - GET /logs
+2026-04-20 22:05:54,624 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-20 22:05:54,624 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:54] "GET /logs HTTP/1.1" 200 -
+2026-04-20 22:05:59,255 - INFO - 127.0.0.1 - GET /health
+2026-04-20 22:05:59,263 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 22:05:59,263 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:59] "GET /health HTTP/1.1" 200 -
+2026-04-20 22:05:59,295 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 22:05:59,295 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 22:05:59,295 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 22:05:59,295 - INFO - 127.0.0.1 - - [20/Apr/2026 22:05:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 22:06:05,794 - INFO - 127.0.0.1 - GET /who
+2026-04-20 22:06:05,803 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-20 22:06:05,804 - INFO - 127.0.0.1 - - [20/Apr/2026 22:06:05] "GET /who HTTP/1.1" 200 -
+2026-04-20 22:06:50,252 - INFO - 127.0.0.1 - GET /health
+2026-04-20 22:06:50,260 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-20 22:06:50,260 - INFO - 127.0.0.1 - - [20/Apr/2026 22:06:50] "GET /health HTTP/1.1" 200 -
+2026-04-20 22:06:50,295 - INFO - 127.0.0.1 - GET /favicon.ico
+2026-04-20 22:06:50,295 - WARNING - 404 Not Found:/favicon.ico
+2026-04-20 22:06:50,295 - INFO - 127.0.0.1 - GET /favicon.ico - 404 NOT FOUND
+2026-04-20 22:06:50,295 - INFO - 127.0.0.1 - - [20/Apr/2026 22:06:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-21 12:21:04,367 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-21 12:21:04,368 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 12:21:10,906 - INFO - 127.0.0.1 - GET /
+2026-04-21 12:21:10,906 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-21 12:21:10,906 - INFO - 127.0.0.1 - - [21/Apr/2026 12:21:10] "GET / HTTP/1.1" 200 -
+2026-04-21 12:21:13,336 - INFO - 127.0.0.1 - GET /health
+2026-04-21 12:21:13,348 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-21 12:21:13,348 - INFO - 127.0.0.1 - - [21/Apr/2026 12:21:13] "GET /health HTTP/1.1" 200 -
+2026-04-21 12:21:18,115 - INFO - 127.0.0.1 - GET /logs
+2026-04-21 12:21:18,118 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-21 12:21:18,118 - INFO - 127.0.0.1 - - [21/Apr/2026 12:21:18] "GET /logs HTTP/1.1" 200 -
+2026-04-21 12:21:35,813 - INFO - 127.0.0.1 - GET /hello
+2026-04-21 12:21:35,821 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-21 12:21:35,821 - INFO - 127.0.0.1 - - [21/Apr/2026 12:21:35] "GET /hello HTTP/1.1" 200 -
+2026-04-21 12:21:37,258 - INFO - 127.0.0.1 - GET /hello
+2026-04-21 12:21:37,269 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-21 12:21:37,269 - INFO - 127.0.0.1 - - [21/Apr/2026 12:21:37] "GET /hello HTTP/1.1" 200 -
+2026-04-21 12:24:19,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-21 12:24:19,465 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 12:24:36,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-21 12:24:36,649 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 12:24:38,080 - INFO - 127.0.0.1 - GET /
+2026-04-21 12:24:38,081 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-21 12:24:38,081 - INFO - 127.0.0.1 - - [21/Apr/2026 12:24:38] "GET / HTTP/1.1" 200 -
+2026-04-21 12:25:00,027 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+2026-04-21 12:25:00,027 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 12:25:01,378 - INFO - 127.0.0.1 - GET /
+2026-04-21 12:25:01,379 - INFO - 127.0.0.1 - GET / - 200 OK
+2026-04-21 12:25:01,379 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:01] "GET / HTTP/1.1" 200 -
+2026-04-21 12:25:03,159 - INFO - 127.0.0.1 - GET /logs
+2026-04-21 12:25:03,161 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-21 12:25:03,161 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:03] "GET /logs HTTP/1.1" 200 -
+2026-04-21 12:25:04,026 - INFO - 127.0.0.1 - GET /logs
+2026-04-21 12:25:04,027 - INFO - 127.0.0.1 - GET /logs - 200 OK
+2026-04-21 12:25:04,027 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:04] "GET /logs HTTP/1.1" 200 -
+2026-04-21 12:25:05,680 - INFO - 127.0.0.1 - GET /metrics
+2026-04-21 12:25:05,937 - INFO - 127.0.0.1 - GET /metrics - 200 OK
+2026-04-21 12:25:05,937 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:05] "GET /metrics HTTP/1.1" 200 -
+2026-04-21 12:25:07,010 - INFO - 127.0.0.1 - GET /status
+2026-04-21 12:25:07,253 - INFO - 127.0.0.1 - GET /status - 200 OK
+2026-04-21 12:25:07,254 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:07] "GET /status HTTP/1.1" 200 -
+2026-04-21 12:25:08,408 - INFO - 127.0.0.1 - GET /hello
+2026-04-21 12:25:08,415 - INFO - 127.0.0.1 - GET /hello - 200 OK
+2026-04-21 12:25:08,415 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:08] "GET /hello HTTP/1.1" 200 -
+2026-04-21 12:25:10,083 - INFO - 127.0.0.1 - GET /health
+2026-04-21 12:25:10,090 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-21 12:25:10,090 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:10] "GET /health HTTP/1.1" 200 -
+2026-04-21 12:25:11,795 - INFO - 127.0.0.1 - GET /who
+2026-04-21 12:25:11,804 - INFO - 127.0.0.1 - GET /who - 200 OK
+2026-04-21 12:25:11,804 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:11] "GET /who HTTP/1.1" 200 -
+2026-04-21 12:25:14,054 - INFO - 127.0.0.1 - GET /health
+2026-04-21 12:25:14,063 - INFO - 127.0.0.1 - GET /health - 200 OK
+2026-04-21 12:25:14,063 - INFO - 127.0.0.1 - - [21/Apr/2026 12:25:14] "GET /health HTTP/1.1" 200 -

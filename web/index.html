@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+ <title> Jesper's Lab Server</title>
+ <style>
+     body  {
+         background-color: #111;
+         color: #0f0;
+         font-family: monospace;
+         text-align: center;
+         margin-top: 100px;
+         }
+         h1  {
+              font-size: 3em;
+        }
+        button {
+             padding: 10px 20px;
+             font-size: 1.2em;
+             margin-top: 20px;
+             cursor: pointer;
+             }
+            </style><
+</head>
+<body>
+  <h1>Jesper's Lab Server</h1>
+  <p>If you see this systemd is working.</p>
+
+<button onclick="document.body.style.backgroundColor = 'black'">
+Dark mode
+</button>
+
+<button onclick="sayHello()">click me</button>
+<script>
+function sayHello() {
+         alert("Server is alive ");
+}
+</script>
+</body>
+</html>
