@@ -1,5 +1,6 @@
 # Flask Monitoring Dashboard
 
+
 A small linux home lab project built with Flask and Python.
 
 This app acts as a lightweight internal dashboard for basic server monitoring. It includes a homepage with navigation, system status pages, log viewing, metrics, health checks, and runs as a systemd service on Ubuntu.
@@ -56,13 +57,6 @@ This project helped me practice:
 - `/health`
 - `/who`
 
-## Running the App Manually
-
-```bash
-cd ~/server-lab
-source venv/bin/activate
-python app.py 
-
 ## Screenshots
 ### Homepage
 ![Web Interface](screenshots/Homepage.png)
@@ -84,3 +78,11 @@ python app.py
 
 ### Who Page
 ![Web Interface](screenshots/Who.png)
+
+## Running the App Manually
+
+```bash
+cd ~/server-lab
+source venv/bin/activate
+python app.py 
+
