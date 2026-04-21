@@ -59,25 +59,25 @@ This project helped me practice:
 
 ## Screenshots
 ### Homepage
-![Web Interface](screenshots/Homepage.png)
+![Web Interface](screenshots/homepage.png)
 
 ### Hello Page
-![Web Interface](screenshots/Hello.png)
+![Web Interface](screenshots/hello.png)
 
 ### Status Page
-![Web Interface](screenshots/Status.png)
+![Web Interface](screenshots/status.png)
 
 ### Metrics Page
-![Web Interface](screenshots/Metrics.png)
+![Web Interface](screenshots/metrics.png)
 
 ### Logs Page
-![Web Interface](screenshots/Logs.png)
+![Web Interface](screenshots/logs.png)
 
 ### Health Page
-![Web Interface](screenshots/Health.png)
+![Web Interface](screenshots/health.png)
 
 ### Who Page
-![Web Interface](screenshots/Who.png)
+![Web Interface](screenshots/who.png)
 
 ## Running the App Manually
 
