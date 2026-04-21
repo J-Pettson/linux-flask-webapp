@@ -62,3 +62,25 @@ This project helped me practice:
 cd ~/server-lab
 source venv/bin/activate
 python app.py 
+
+## Screenshots
+### Homepage
+![Web Interface](screenshots/Homepage.png)
+
+### Hello Page
+![Web Interface](screenshots/Hello.png)
+
+### Status Page
+![Web Interface](screenshots/Status.png)
+
+### Metrics Page
+![Web Interface](screenshots/Metrics.png)
+
+### Logs Page
+![Web Interface](screenshots/Logs.png)
+
+### Health Page
+![Web Interface](screenshots/Health.png)
+
+### Who Page
+![Web Interface](screenshots/Who.png)
